@@ -10,6 +10,7 @@
     "wifi"
   ],
   "frameworks": [
+    "arduino",
     "espidf"
   ],
   "name": "Espressif ESP32-C6-DevKitC-1",
